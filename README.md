@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Install and run
+
+Just run `yarn install` and then `yarn start` in the terminal, and it will navigate the main screen,
+were you can see the problems.
+
 ## Available Scripts
 
 In the project directory, you can run:
